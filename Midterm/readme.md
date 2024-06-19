@@ -29,3 +29,4 @@ gcc -o countfile countfile.c
 
 1. **Program 1**: Demonstrates simple count in math 
 2. **Program 2**: Basic Logic Operations
+3. **Program 3**: String manipulation

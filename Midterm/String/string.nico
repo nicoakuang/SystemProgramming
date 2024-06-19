@@ -1,0 +1,7 @@
+PUSH "Hello, "
+PUSH "World!"
+CONCAT
+PRINT
+PUSH "OpenAI"
+LEN
+PRINT

@@ -23,9 +23,10 @@ int evaluate(char *expression) {
     }
     // Display error message if the operator is not work well
     else {
-        fprintf(stderr, "Error: Unsupported operator: %c\n", operator);
+        fprintf(stderr, "Error: operator: %c\n", operator);
         return 0; // Error code
     }
+
 }
 
 // Function to read the Nico program file and evaluate each line

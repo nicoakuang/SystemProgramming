@@ -1,6 +1,6 @@
 # Simple Stack-based Interpreter in C Language
 
-**I used help of CHATGPT**
+**I used help of CHATGPT 60%**
 This project implements a simple stack-based interpreter for a custom programming language. The interpreter reads programs written in the custom language and executes them sequentially. It supports basic operations such as arithmetic, input/output, and Basic Logic Operations. 
 
 ## Features
